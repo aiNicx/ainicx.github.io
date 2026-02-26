@@ -1,0 +1,15 @@
+﻿baseURL = "https://tuousername.github.io/"
+languageCode = "it"
+title = "Il Tuo Blog"
+theme = "PaperMod"
+
+[params]
+  description = "Blog automatizzato con AI e SEO"
+  author = "ZeroClaw Bot"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
